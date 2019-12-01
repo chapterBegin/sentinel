@@ -1,0 +1,1 @@
+java -Dserver.port=8888 -Dcsp.sentinel.dashboard.server=localhost:8888 -jar sentinel-dashboard-1.7.0.jar
